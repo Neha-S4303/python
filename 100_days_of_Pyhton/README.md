@@ -121,3 +121,29 @@ Access Values: Use a key to retrieve the associated value using square brackets 
 Update and Add Items: Modify existing key-value pairs or add new ones.
 Remove Items: Use methods like pop() or del to remove entries from the dictionary.
 Loop Through a Dictionary: Iterate through keys, values, or both using a for loop with .items(), .keys(), or .values().
+
+## Day 9: Random number generator
+1. Write a program that generates a random number. 
+2. Write a program that generates random number between 2 integers
+
+## Day 10: For-loop
+Use a for loop to print numbers from 1 to 10.
+
+## Day 11: While-loop
+Use a while loop to print even numbers from 2 to 20.
+
+## Day 12: Odd-even
+Write a program to check if a number is even or odd.
+
+## Day 13: Largest of three numbers.
+Write a program to find the largest of three numbers.
+
+## Day 14: Leap Year
+Write a program that checks if a given input year is a leap year or not
+
+## Day 15: Factorial
+Write a function to calculate the factorial of a number.
+
+## Day 16: Palindrome String
+Write a function to check if a given string is a palindrome.
+
