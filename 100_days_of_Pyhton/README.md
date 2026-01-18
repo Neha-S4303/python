@@ -147,3 +147,12 @@ Write a function to calculate the factorial of a number.
 ## Day 16: Palindrome String
 Write a function to check if a given string is a palindrome.
 
+## Day 17:  Number of vowels in a string
+Write a function to count the number of vowels in a string.
+
+## Day 18: List Sum
+Write a function to find the sum of all elements in a list.
+
+## Day 19: Maximum in List
+Write a function to find the maximum element in a list.
+
