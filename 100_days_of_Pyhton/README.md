@@ -156,3 +156,17 @@ Write a function to find the sum of all elements in a list.
 ## Day 19: Maximum in List
 Write a function to find the maximum element in a list.
 
+## Day 20: Fibonacci sequence
+Write a function to calculate the Fibonacci sequence up to a certain limit.
+
+## Day 21: Reverse List
+Write a function to reverse a list.
+
+## Day 22: List duplicates
+Write a function to remove duplicates from a list.
+
+## Day 23: List intersection
+Write a function to find the intersection of two lists.
+
+## Day 24: Words to sentence.
+Write a function to convert a list of words into a sentence.
