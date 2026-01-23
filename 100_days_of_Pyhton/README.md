@@ -182,3 +182,15 @@ Find the longest word in a sentence.
 
 ## Day 28: Reverse words
 Reverse words in a sentence.
+
+## Day 29: Words frequency
+Create a dictionary of words and their frequencies.
+
+## Day 30: Sort a list
+Sort a list of numbers in ascending order.
+
+## Day 31: Merge dictionaries.
+Merge two dictionaries.
+
+## Day 32: File operations: Read
+Read and display the contents of a text file.
