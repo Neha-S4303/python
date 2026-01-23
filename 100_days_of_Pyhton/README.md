@@ -170,3 +170,15 @@ Write a function to find the intersection of two lists.
 
 ## Day 24: Words to sentence.
 Write a function to convert a list of words into a sentence.
+
+## Day 25: Words frequency
+Write a function to count the frequency of words in a sentence.
+
+## Day 26: Anagram strings
+Write a function check if two strings are anagrams.
+
+## Day 27: Longest word
+Find the longest word in a sentence.
+
+## Day 28: Reverse words
+Reverse words in a sentence.
