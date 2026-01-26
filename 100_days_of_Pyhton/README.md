@@ -203,3 +203,12 @@ Append data to an existing text file.
 
 ## Day 35: File operations
 Calculate the average of numbers in a text file.
+
+## Day 36: Handle Exceptions I
+Handle exceptions for division by zero.
+
+## Day 37: Handle Exceptions II
+Handle exceptions for file not found.
+
+## Day 38: Custom Exceptions
+Create a custom exception class.
