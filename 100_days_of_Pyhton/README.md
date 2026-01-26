@@ -194,3 +194,12 @@ Merge two dictionaries.
 
 ## Day 32: File operations: Read
 Read and display the contents of a text file.
+
+## Day 33: File operations: Write
+Write data to a text file.
+
+## Day 34: File operations: Append
+Append data to an existing text file.
+
+## Day 35: File operations
+Calculate the average of numbers in a text file.
